@@ -3,10 +3,10 @@
 ![Simur Logo](images/simur_logo.png "Simur Logo")
 
 # Software
-		Repo	Cite
+
 | PyPI  | About |  Repo  |  Cite |
 |-------|-----|-------|-------|
-| Alice | 25  | New York | xxx |
+| [/uniovi-simur-wearablepermed-utils](https://pypi.org/project/uniovi-simur-wearablepermed-utils/)  | 25  | [uniovi-simur-wearablepermed-utils](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-utils) | xxx |
 | Bob   | 30  | London   | yyy |
 
 # Latest Research
