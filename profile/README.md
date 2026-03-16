@@ -2,13 +2,13 @@
 
 ![Simur Logo](images/simur_logo.png "Simur Logo")
 
-<!--
+# Software
+		Repo	Cite
+| PyPI  | About |  Repo  |  Cite |
+|-------|-----|-------|-------|
+| Alice | 25  | New York | xxx |
+| Bob   | 30  | London   | yyy |
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Latest Research
+- Uno
+- Dos
