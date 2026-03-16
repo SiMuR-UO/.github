@@ -6,8 +6,8 @@
 
 | PyPI  | About |  Repo  |  Cite |
 |-------|-----|-------|-------|
-| [/uniovi-simur-wearablepermed-utils](https://pypi.org/project/uniovi-simur-wearablepermed-utils/)  | 25  | [uniovi-simur-wearablepermed-utils](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-utils) | xxx |
-| Bob   | 30  | London   | yyy |
+| [WearablePerMed Utils PyPI](https://pypi.org/project/uniovi-simur-wearablepermed-utils)  | Python package with utilities to be executed from pre-trained pipeline  | [WearablePerMed Utils PyPI Repository](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-utils) | [Citation](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-utils/blob/main/AUTHORS.md) |
+| [Uniovi Simur WearablePerMed Pipeline PyPI](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-pipeline)  | Python package to execute pre-trained pipeline  | [Uniovi Simur WearablePerMed Pipeline Repository](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-pipeline) | [Citation](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-pipeline/blob/master/AUTHORS.md) |
 
 # Latest Research
 - Uno
