@@ -1,4 +1,7 @@
 ## [SiMuR Research Group](https://simur.dieecs.com/)
+
+![Simur Logo](images/simur_logo.png "Simur Logo")
+
 <!--
 
 **Here are some ideas to get you started:**
