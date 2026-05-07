@@ -4,6 +4,10 @@
 
 # Software
 
+## WearablePermedProject
+
+For technicals details go to [the WPM wik] (https://simur-uo.github.io/uniovi-simur-wearablepermed-wiki/)
+
 | PyPI  | About |  Repo  |  Cite |
 |-------|-----|-------|-------|
 | [WearablePerMed utils pre-trained](https://pypi.org/project/uniovi-simur-wearablepermed-utils)  | Python package with utilities to be executed from pre-trained pipeline  | [WearablePerMed utils pre-trained](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-utils) | [Citation](https://github.com/SiMuR-UO/uniovi-simur-wearablepermed-utils/blob/main/AUTHORS.md) |
