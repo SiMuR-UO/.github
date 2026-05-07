@@ -6,7 +6,7 @@
 
 ## WearablePermedProject
 
-For technicals details go to [the WPM wik] (https://simur-uo.github.io/uniovi-simur-wearablepermed-wiki/)
+For technicals details go to [the WPM wiki](https://simur-uo.github.io/uniovi-simur-wearablepermed-wiki/)
 
 | PyPI  | About |  Repo  |  Cite |
 |-------|-----|-------|-------|
